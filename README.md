@@ -3,7 +3,7 @@
 #This script has been put together to enable random email content to be generated from Open Source content
 #and then to relay that mail through a local SMTP relay. Once this content is generated a PST file can be 
 #exported and then imported into a live mailbox account on Office 365 for testing purposes. All content referenced
-#here can be downloaded in a seperate zip file from my blog site. https://www.leeejeffries.com/
+#here can be downloaded in a seperate zip file from my blog site. https://www.leeejeffries.com/wp-content/uploads/2018/09/Random_Content.zip
 #The file paths will need to be changed to reflect the location you extract them to.
 #
 #The text content and subject lines of emails are generated from a public domain ebook
